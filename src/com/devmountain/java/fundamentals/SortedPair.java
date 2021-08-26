@@ -1,7 +1,7 @@
 package com.devmountain.java.fundamentals;
 
 
-//type bounds allow us to distignuish which pair or variable velongs where
+//type bounds allow us to distignuish which pair or variable velongs where create boundaries on comparisions like when different rides say the minimum height to ride
                                     //addong T to restrict comparable values
 public class SortedPair<T extends Comparable<T>> {
 
